@@ -23,8 +23,5 @@ I am a Computer Engineering student at Politeknik Elektronika Negeri Surabaya (P
 
 ---
 
-## 📈 GitHub Stats
-![Hammam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 - **Email:** hammamabdillah869@gmail.com
